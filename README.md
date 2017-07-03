@@ -48,6 +48,10 @@ We have
 
 Juri's living room, near Central in the middle of Zurich. Now with more WiFi, provided our neighbour doesn't change the password again. I will give you the address once you register, because I don't want internet murderers to find me. \#security-conscious
 
+## projects
+
+one for total beginners, and once for more advanced losers. i will set something up soon, i promise. anything else you wanna work on is cool too
+
 ## FAQ
 
 (some of these options are blatantly copy-pasted from [an actual professionally organized hackathon](http://digitalfestival.ch/en/HACK/faq) because this is meant to be a low-effort event and also because I think you can't be sued for that)
