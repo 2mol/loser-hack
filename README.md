@@ -13,7 +13,7 @@ The Hackathon for rejects
 
 Did [Hack Zurich](http://hackzurich.com/) (just like your parents) not want you?
 
-- because you didn't notice that you had to send your CV, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
+- because you didn't realize you had to send your resumé, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
 - because the only language choices were Java and PHP 4 (list recited purely from memory)
 - because you're not an idea person
 - because you don't blockchain, and machine learning is so 2015
@@ -28,7 +28,7 @@ But **wait**, now there's a solution! Get together with other losers in a comple
 
 ## features
 
-Shape the Furure, today! _More synergies!_ Less corporate! **Low effort**! More exclamation marks than competing events, proving increased enthusiasm!
+Shape the Furure, today! _More synergies!_ Less corporate! **Low effort**! More 💯 emojis and exclamation marks than competing events, proving increased 🔥enthusiasm🔥!
 
 We have
 
