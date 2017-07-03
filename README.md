@@ -30,7 +30,7 @@ But **wait**, now there's a solution! Get together with other losers in a comple
 
 Shape the Furure, today! _More synergies!_ Less corporate! **Low effort**!
 
-💯 more emojis and exclamation marks than competing events, proving increased 🔥_enthusiasm_🔥!
+💯 more emojis and exclamation marks than competing events, proof of increased 🔥 _enthusiasm_!
 
 We have
 
