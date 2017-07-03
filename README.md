@@ -57,11 +57,17 @@ A: Yes, it's the door on the right of the kitchen
 #### Q: What if I don’t know how to program?
 A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have Ash, a little bit of Oak and what I think is Elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have an ambulance on-call, but the Waid Hospital is close by and very easy to get to, even via Uber. But we're drifting a bit off-topic here, so back to computer stuff).
 
+#### Q: What is the team size?
+A: Because we are the more lenient event, team size should be at least one person, and there is no upper bound.
+
 #### Q: Which languages
 A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes! (srsly, last week I said I was ok with tourists eating fondue in the middle of summer; this is the level of tolerance you can expect from our event, even if earlier I implicitly made fun of Java and php)
 
 #### Q: What am I supposed to do there?
 A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner and avoid making eye contact with anyone!
+
+#### Q: What about intellectual property? Do I own my code?
+A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon that my bank organizes does that.
 
 #### Q: How can I sign up?
 A: xx email address here xx
