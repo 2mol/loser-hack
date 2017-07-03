@@ -28,7 +28,7 @@ But **wait**, now there's a solution! Get together with other losers in a comple
 
 ## features
 
-Shape the Furure, today! _More synergies!_ Less corporate! **Low effort**!
+Shape the Future, today! _More synergies!_ Approachable. Diminished corporate influence! **Low effort**!
 
 💯 more emojis and exclamation marks than competing events, proof of increased 🔥 _enthusiasm_!
 
@@ -45,7 +45,7 @@ We have
 
 ## location
 
-Juri's living room, near Central in the middle of Zurich. Now with more WiFi, provided our neighbour doesn't change the password again.
+Juri's living room, near Central in the middle of Zurich. Now with more WiFi, provided our neighbour doesn't change the password again. I will give you the address once you register, because I don't want internet murderers to find me. \#security-conscious
 
 ## FAQ
 
@@ -86,3 +86,9 @@ A: That is basically the entire goal of this event. I will try to convince Draž
 
 #### Q: Is this 40 hours non-stop and can I sleep at your place?
 A: Haha, fuck no.
+
+# SIGN ME THE FUCK UP
+
+dude this isnt finished yet, pls calm down for a second while i set this up
+
+OK! xx again, insert email here xx
