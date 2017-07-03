@@ -64,8 +64,14 @@ A: xx email address here xx
 #### Q: Do you have those rooms where you can retreat to do thinking and brainstorming or Yoga?
 A: No. Yes. Sort of. My flatmate Maria got accepted into the actual Hack Zurich, so you can use her room. It is very empty and might seem like the den of a heroin-addict at first glance, but I promise she's cool and she just likes it that way, because of the way she is, not because of heroin.
 
-#### Q: Is this 40 hours non-stop and can I sleep at your place?
-A: No
+#### Q: Can I play with your LEGOs to make the event feel more startup-y?
+A: yes
 
 #### Q: Swag?
 A: No.
+
+#### Q: Do you provide day-care or emotional guidance in the form of support animals?
+A: That is basically the entire goal of this event. I will try to convince Dražen to bring his cat!
+
+#### Q: Is this 40 hours non-stop and can I sleep at your place?
+A: Haha, fuck no.
