@@ -1,6 +1,6 @@
-<sub>_drumroll_</sub>
+<sub>_announcing_</sub>
 
-...announcing...
+...
 
 # Loser-Hack
 
@@ -15,7 +15,7 @@ Did Hack Zurich (just like your parents) not want you?
 - because you didn't notice that you had to send your CV, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
 - because the only language choices were Java and PHP 4 (list recited purely from memory)
 - because you're not an idea person
-- because you don't blockchain, and machine learning is soo 2015
+- because you don't blockchain, and machine learning is so 2015
 
 In short
 
