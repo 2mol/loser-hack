@@ -4,14 +4,14 @@
 
 <sub>when? Friday, September 15 to Sunday, September 17, 2017</sub>
 
-<sub>where? Juri's Living Room near Haldenegg</sub>
+<sub>where? Juri's living room near Haldenegg</sub>
 
 ## why/what?
 
 Did Hack Zurich (just like your parents) not want you?
 
 - because you didn't notice that you had to send your CV, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
-- because the only language choices were Java and PHP (list recited purely from memory)
+- because the only language choices were Java and PHP 4 (list recited purely from memory)
 - because you're not an "idea person"
 - because you don't blockchain, and machine learning is soo 2015
 
@@ -21,7 +21,7 @@ In short:
 
 You're just a total LOSER. And now your feelings are hurt.
 
-But **wait**, now there's a solution! Get together with other losers in a completely uncompetitive environment where EVERYBODY WINS A PRICE.
+But **wait**, now there's a solution! Get together with other losers in a completely uncompetitive environment where EVERYBODY WINS A PRIZE.
 
 ## features
 
@@ -46,7 +46,7 @@ Juri's living room, near Central in the middle of Zurich. Now with 100% more WiF
 A: Yes, it's the door on the right of the kitchen
 
 #### Q: What if I don’t know how to program?
-A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture.
+A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have Ash, a little bit of Oak and what I think is Elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have an ambulance on-call, but the Waid Hospital is close by and very easy to get to, even via Uber. But we're drifting a bit off-topic here, so back to computer stuff).
 
 #### Q: Which languages
 A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes!
