@@ -3,10 +3,13 @@
 ...
 
 # Loser-Hack
+The Hackathon for rejects
 
 <sub>when? Friday, September 15 to Sunday, September 17, 2017</sub>
 
 <sub>where? Juri's living room near Haldenegg</sub>
+
+![(*)Big Gulp not included](http://s3cf.recapguide.com/img/tv/35/1x4/Silicon-Valley-Season-1-Episode-4-2-9d72.jpg)
 
 ## why/what?
 
@@ -27,7 +30,7 @@ But **wait**, now there's a solution! Get together with other losers in a comple
 
 ## features
 
-More synergies! Less corporate! Low effort! More exclamation marks than our competitors!
+_More synergies!_ Less corporate! **Low effort**! More exclamation marks than competing events, proving increased enthusiasm!
 
 We have
 
