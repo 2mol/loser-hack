@@ -56,7 +56,7 @@ Juri's living room, near Central in the middle of Zurich. Now with more WiFi, pr
 A: Yes, it's the door to the right of the kitchen
 
 #### Q: What if I don’t know how to program?
-A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have ash, a little bit of oak and what I _think_ is elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have any 1st-aid people on call, but the Waid Hospital is close by and very easy to get to, even via Uber, and the guy at the reception is very nice and understanding. But we're drifting a bit off-topic here, so back to computer stuff).
+A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have ash, a little bit of oak and what I _think_ is elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have any 1st-aid people on call, but the Waid Hospital is close by and very easy to get to, even via Uber, and the guy at the reception is very nice and understanding. But we're drifting a bit off-topic here, BACK TO COMPUTER STUFF).
 
 #### Q: What is the team size?
 A: Because we are the more lenient event, team size should be at least one person, and there is no upper bound.
