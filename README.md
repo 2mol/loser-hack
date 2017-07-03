@@ -3,8 +3,7 @@
 # Loser-Hack
 The Hackathon for rejects
 
-<sub>when -> Friday, September 15 to Sunday, September 17, 2017</sub>
-
+<sub>when -> Friday, September 15 to Sunday, September 17, 2017</sub>  
 <sub>where -> Juri's living room near Haldenegg</sub>
 
 ![(*)Big Gulp not included](http://s3cf.recapguide.com/img/tv/35/1x4/Silicon-Valley-Season-1-Episode-4-2-9d72.jpg)
