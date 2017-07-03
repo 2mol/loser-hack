@@ -46,6 +46,8 @@ Juri's living room, near Central in the middle of Zurich. Now with more WiFi, pr
 
 ## FAQ
 
+(some of these options are blatantly copy-pasted from [a certain, actually professionally organized hackathon](http://digitalfestival.ch/en/HACK/faq) because this is meant to be a low-effort event and also because I think you can't be sued for that)
+
 #### Q: Is there a bathroom?
 A: Yes, it's the door on the right of the kitchen
 
@@ -53,7 +55,7 @@ A: Yes, it's the door on the right of the kitchen
 A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have Ash, a little bit of Oak and what I think is Elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have an ambulance on-call, but the Waid Hospital is close by and very easy to get to, even via Uber. But we're drifting a bit off-topic here, so back to computer stuff).
 
 #### Q: Which languages
-A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes!
+A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes! (srsly, last week I said I was ok with tourists eating fondue in the middle of summer; this is the level of tolerance you can expect from our event)
 
 #### Q: What am I supposed to do there?
 A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner and avoid making eye contact with anyone!
