@@ -30,7 +30,7 @@ But **wait**, now there's a solution! Get together with other losers in a comple
 
 ## features
 
-_More synergies!_ Less corporate! **Low effort**! More exclamation marks than competing events, proving increased enthusiasm!
+Shape the Furure, today! _More synergies!_ Less corporate! **Low effort**! More exclamation marks than competing events, proving increased enthusiasm!
 
 We have
 
@@ -67,7 +67,7 @@ A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit
 A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner and avoid making eye contact with anyone!
 
 #### Q: What about intellectual property? Do I own my code?
-A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon that my bank organizes does that.
+A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon of the bank I work at definitely does that.
 
 #### Q: How can I sign up?
 A: xx email address here xx
