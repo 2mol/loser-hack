@@ -38,7 +38,7 @@ We have
 - No speakers
 - A complete lack of organization (but we have a location!)
 - No sponsorship
-- No plastic nametags that you can hang around your neck
+- Unfortunately no plastic nametags on lanyards that you can hang yourself with
 - No free garbage
 - No Jury
 - No winners
