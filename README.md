@@ -88,6 +88,16 @@ A: That is basically the entire goal of this event. I will try to convince Draž
 #### Q: Is this 40 hours non-stop and can I sleep at your place?
 A: Haha, fuck no.
 
+## Testemonials:
+
+(these may or may not be borrowed from elsewhere, which is why the names are most definitely made up. Or _are_ they?)
+
+> Tolles Event! Genau an solchen Veranstaltungen können wichtige Entdeckungen für die Zukunft gemacht werden. Zwei Daumen hoch
+> \- Bob
+
+> "Wir wollen die Innovationskultur von [...] fördern und nutzen, indem wir Ideen mit starkem Fokus auf die Kundenschnittstelle entwickeln. Damit setzen wir gegen innen und aussen ein Zeichen, indem wir als fortschrittliches und dynamisches Unternehmen wahrgenommen werden“
+> \- Rolf
+
 # SIGN ME THE FUCK UP
 
 dude this isnt finished yet, pls calm down for a second while i set this up
