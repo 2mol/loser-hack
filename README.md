@@ -1,4 +1,6 @@
-<sub>_announcing_</sub>
+<sub>_drumroll_</sub>
+
+announcing
 
 # Loser-Hack
 
