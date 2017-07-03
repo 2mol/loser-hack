@@ -1,20 +1,27 @@
-announcing
+<sub>_announcing_</sub>
+
 # Loser-Hack
-Friday, September 15 to Sunday, September 17, 2017
-Juri's Living Room near Haldenegg
+
+<sub>when? Friday, September 15 to Sunday, September 17, 2017</sub>
+
+<sub>where? Juri's Living Room near Haldenegg</sub>
 
 ## why/what?
 
 Did Hack Zurich (just like your parents) not want you?
 
-- because you didn't notice that you had to send your CV, a handwritten motivational letter and ETH-inspired erotic fanfiction?
+- because you didn't notice that you had to send your CV, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
 - because the only language choices were Java and PHP (list recited purely from memory)
 - because you're not an "idea person"
 - because you don't blockchain, and machine learning is soo 2015
 
+In short:
+
 - because you're just **not very cool**
 
-In short: You're just a total LOSER. But wait, now there's a solution! Get together with other losers in a completely uncompetitive environment where EVERYBODY WINS A PRICE.
+You're just a total LOSER. And now your feelings are hurt.
+
+But **wait**, now there's a solution! Get together with other losers in a completely uncompetitive environment where EVERYBODY WINS A PRICE.
 
 ## features
 
