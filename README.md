@@ -52,10 +52,16 @@ A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equi
 A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes!
 
 #### Q: What am I supposed to do there?
-A: Work on anything! Have a coffee! Make Friends! Work by yourself in a corner and avoid making eye contact with anyone!
+A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner and avoid making eye contact with anyone!
 
 #### Q: How can I sign up?
 A: xx email address here xx
+
+#### Q: Do you have those rooms where you can retreat to do thinking and brainstorming or Yoga?
+A: No. Yes. Sort of. My flatmate Maria got accepted into the actual Hack Zurich, so you can use her room. It is very empty and might seem like the den of a heroin-addict at first glance, but I promise she's cool and she just likes it that way, because of the way she is, not because of heroin.
+
+#### Q: Is this 40 hours non-stop and can I sleep at your place?
+A: No
 
 #### Q: Swag?
 A: No.
