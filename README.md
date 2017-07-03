@@ -13,7 +13,7 @@ The Hackathon for rejects
 
 ## why/what?
 
-Did Hack Zurich (just like your parents) not want you?
+Did [Hack Zurich](http://hackzurich.com/) (just like your parents) not want you?
 
 - because you didn't notice that you had to send your CV, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
 - because the only language choices were Java and PHP 4 (list recited purely from memory)
@@ -58,7 +58,7 @@ A: Yes, it's the door on the right of the kitchen
 A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have Ash, a little bit of Oak and what I think is Elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have an ambulance on-call, but the Waid Hospital is close by and very easy to get to, even via Uber. But we're drifting a bit off-topic here, so back to computer stuff).
 
 #### Q: Which languages
-A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes! (srsly, last week I said I was ok with tourists eating fondue in the middle of summer; this is the level of tolerance you can expect from our event)
+A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes! (srsly, last week I said I was ok with tourists eating fondue in the middle of summer; this is the level of tolerance you can expect from our event, even if earlier I implicitly made fun of Java and php)
 
 #### Q: What am I supposed to do there?
 A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner and avoid making eye contact with anyone!
