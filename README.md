@@ -1,6 +1,6 @@
 <sub>_drumroll_</sub>
 
-announcing
+...announcing...
 
 # Loser-Hack
 
@@ -14,33 +14,35 @@ Did Hack Zurich (just like your parents) not want you?
 
 - because you didn't notice that you had to send your CV, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
 - because the only language choices were Java and PHP 4 (list recited purely from memory)
-- because you're not an "idea person"
+- because you're not an idea person
 - because you don't blockchain, and machine learning is soo 2015
 
-In short:
+In short
 
 - because you're just **not very cool**
 
-You're just a total LOSER. And now your feelings are hurt.
+You're a total LOSER. And now your feelings are hurt.
 
 But **wait**, now there's a solution! Get together with other losers in a completely uncompetitive environment where EVERYBODY WINS A PRIZE.
 
 ## features
 
+More synergies! Less corporate! Low effort! More exclamation marks than our competitors!
+
 We have
 
 - No speakers
-- No organization to speak of (apart from a location)
+- A complete lack of organization (but we have a location!)
 - No sponsorship
 - No plastic nametags that you can hang around your neck
 - No free garbage
 - No Jury
-- No Winners
+- No winners
 - No expectations!
 
 ## location
 
-Juri's living room, near Central in the middle of Zurich. Now with 100% more WiFi, provided our neighbour's router stays plugged in the entire time.
+Juri's living room, near Central in the middle of Zurich. Now with more WiFi, provided our neighbour doesn't change the password again.
 
 ## FAQ
 
