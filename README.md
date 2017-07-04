@@ -4,7 +4,8 @@
 The Hackathon for rejects
 
 <sub>when -> Friday, September 15 to Sunday, September 17, 2017</sub>  
-<sub>where -> Juri's living room near Haldenegg</sub>
+<sub>where -> Juri's living room near Haldenegg</sub>  
+<sub>register at [loserhack11@aol.com](loserhack11@aol.com)</sub>
 
 ![(*)Big Gulp not included](http://s3cf.recapguide.com/img/tv/35/1x4/Silicon-Valley-Season-1-Episode-4-2-9d72.jpg)
 
@@ -76,7 +77,7 @@ A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner a
 A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon of the place I work at definitely does that.
 
 #### Q: How can I sign up?
-A: xx email address here xx
+A: [loserhack11@aol.com](loserhack11@aol.com)
 
 #### Q: Do you have those rooms where you can retreat to do thinking and brainstorming or Yoga?
 A: No. Yes. Sort of. My flatmate Maria got accepted into the actual Hack Zurich, so you can use her room. It is very empty and might seem like the den of a heroin-addict at first glance, but I promise she's cool and she just likes it that way, because of the way she is, not because of heroin.
@@ -104,7 +105,4 @@ A: Haha, fuck no.
 > \- Rolf
 
 # SIGN ME THE FUCK UP
-
-dude this isnt finished yet, pls calm down for a second while i set this up
-
-OK! xx again, insert email here xx
+[loserhack11@aol.com](loserhack11@aol.com)
