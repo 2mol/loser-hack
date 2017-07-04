@@ -59,7 +59,9 @@ one for total beginners, and once for more advanced losers. i will set something
 A: Yes, it's the door to the right of the kitchen
 
 #### Q: What if I don’t know how to program?
-A: Two options: 1) Hang with us and we'll teach you stuff! 2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have ash, a little bit of oak and what I _think_ is elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have any 1st-aid people on call, but the Waid Hospital is close by and very easy to get to, even via Uber, and the guy at the reception is very nice and understanding. But we're drifting a bit off-topic here, BACK TO COMPUTER STUFF).
+A: Two options:
+  1) Hang with us and we'll teach you stuff!
+  2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have ash, a little bit of oak and what I _think_ is elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have any 1st-aid people on call, but the Waid Hospital is close by and very easy to get to, even via Uber, and the guy at the reception is very nice and understanding. But we're drifting a bit off-topic here, BACK TO COMPUTER STUFF).
 
 #### Q: What is the team size?
 A: Because we are the more lenient event, team size should be at least one person, and there is no upper bound.
@@ -71,7 +73,7 @@ A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit
 A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner and avoid making eye contact with anyone!
 
 #### Q: What about intellectual property? Do I own my code?
-A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon of the bank I work at definitely does that.
+A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon of the place I work at definitely does that.
 
 #### Q: How can I sign up?
 A: xx email address here xx
@@ -93,7 +95,7 @@ A: Haha, fuck no.
 
 ## Testemonials:
 
-(these may or may not be borrowed from elsewhere, which is why the names are most definitely made up. Or _are_ they?)
+(these may or may not be borrowed from elsewhere, which is why the names are most definitely made up.)
 
 > Tolles Event! Genau an solchen Veranstaltungen können wichtige Entdeckungen für die Zukunft gemacht werden. Zwei Daumen hoch
 > \- Bob
