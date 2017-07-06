@@ -50,7 +50,7 @@ Juri's living room, near Central in the middle of Zurich. Now with more WiFi, pr
 
 ## projects
 
-one for total beginners, and once for more advanced losers. i will set something up soon, i promise. anything else you wanna work on is cool too
+See at the bottom under **Signup**. There is a [Projects.md](Projects.md) file against which you can send pull requests if you want to add ideas.
 
 ## FAQ
 
@@ -113,6 +113,8 @@ Send an email to [loserhack11@aol.com](loserhack11@aol.com) with optionally the 
 - your name/nickname/battlecry or _nom de guerre_. Whichever identifier you prefer. The funniest or dumbest nickname also gets a prize.
 - your preferred language(s) or any other skills you find worthy mentioning.
 - your level. If you're a beginner it might be worth pairing up with a more advanced programmer with a helper complex
+- if you feel very motivated: make project suggestions. Send them by email, or modify [Projects.md](Projects.md). Be brief, we just want to make a list, not write a booklet for your series A round funding.
 
 Hopefully this will resort in some sort of clustering so that we can facilitate people coagulating into teams. If I'm very motivated I'll make a spreadsheet (!) summarizing the above, so you guys are nudged into being less antisocial.
+
 
