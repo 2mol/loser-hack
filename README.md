@@ -104,7 +104,7 @@ A: Haha, fuck no.
 > "Wir wollen die Innovationskultur von [...] fördern und nutzen, indem wir Ideen mit starkem Fokus auf die Kundenschnittstelle entwickeln. Damit setzen wir gegen innen und aussen ein Zeichen, indem wir als fortschrittliches und dynamisches Unternehmen wahrgenommen werden“
 > \- Rolf
 
-# SIGN ME UP
+# I'M HYPED, SIGN ME UP!
 
 Ok, here's how to register:
 
