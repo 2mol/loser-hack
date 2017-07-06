@@ -36,7 +36,7 @@ Shape the Future, today! _More synergies!_ Approachable. Diminished corporate in
 We have
 
 - No speakers
-- A complete lack of organization (but we have a location!)
+- A location!
 - No sponsorship
 - Unfortunately no plastic nametags on lanyards that you can hang yourself with
 - No free garbage
@@ -59,6 +59,9 @@ one for total beginners, and once for more advanced losers. i will set something
 #### Q: Is there a bathroom?
 A: Yes, it's the door to the right of the kitchen
 
+#### Q: Is this event even properly _"organized"_?
+A: We kindly ask you to not make use of the _O-word_ because some members of our community are easily triggered and might experience brief symptoms of burnout.
+
 #### Q: What if I don’t know how to program?
 A: Two options:
   1) Hang with us and we'll teach you stuff!
@@ -75,9 +78,6 @@ A: Work on anything! Have a coffee! Make friends! Work by yourself in a corner a
 
 #### Q: What about intellectual property? Do I own my code?
 A: What? Of course. Why would we own code you wrote? Who _does_ that? Oh wait, the Hackathon of the place I work at definitely does that.
-
-#### Q: How can I sign up?
-A: [loserhack11@aol.com](loserhack11@aol.com)
 
 #### Q: Do you have those rooms where you can retreat to do thinking and brainstorming or Yoga?
 A: No. Yes. Sort of. My flatmate Maria got accepted into the actual Hack Zurich, so you can use her room. It is very empty and might seem like the den of a heroin-addict at first glance, but I promise she's cool and she just likes it that way, because of the way she is, not because of heroin.
@@ -104,5 +104,15 @@ A: Haha, fuck no.
 > "Wir wollen die Innovationskultur von [...] fördern und nutzen, indem wir Ideen mit starkem Fokus auf die Kundenschnittstelle entwickeln. Damit setzen wir gegen innen und aussen ein Zeichen, indem wir als fortschrittliches und dynamisches Unternehmen wahrgenommen werden“
 > \- Rolf
 
-# SIGN ME THE FUCK UP
-[loserhack11@aol.com](loserhack11@aol.com)
+# SIGN ME UP
+
+Ok, here's how to register:
+
+Send an email to [loserhack11@aol.com](loserhack11@aol.com) with optionally the following info
+
+- your name/nickname/battlecry or _nom de guerre_. Whichever identifier you prefer. The funniest or dumbest nickname also gets a prize.
+- your preferred language(s) or any other skills you find worthy mentioning.
+- your level. If you're a beginner it might be worth pairing up with a more advanced programmer with a helper complex
+
+Hopefully this will resort in some sort of clustering so that we can facilitate people coagulating into teams. If I'm very motivated I'll make a spreadsheet (!) summarizing the above, so you guys are nudged into being less antisocial.
+
