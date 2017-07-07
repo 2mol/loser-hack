@@ -116,3 +116,5 @@ Send an email to [loserhack11@aol.com](loserhack11@aol.com) with optionally the 
 - if you feel very creative: make project suggestions. Send them by email, or modify [Projects.md](Projects.md). Be brief, we just want to make a list, not write a booklet for your series A round funding.
 
 Hopefully this will resort in some sort of clustering so that we can facilitate people coagulating into teams. _If_ I'm very motivated I'll make a spreadsheet (!) summarizing the above, so you guys are nudged into being less antisocial.
+
+After a couple of people register, we will send you an email with some details.
