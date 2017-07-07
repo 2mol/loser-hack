@@ -14,7 +14,7 @@ The Hackathon for rejects
 Did [Hack Zurich](http://hackzurich.com/) (just like your parents) not want you?
 
 - because you filled out the application like any shitty internet form, providing as few personal details as possible
-- because you didn't realize you had to send your resumé, a handwritten motivational letter, and erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting? (mentioned on the registration page, go look it up)
+- because you didn't realize you had to send a) your resumé, b) a handwritten motivational letter, and c) erotic fanfiction featuring the the all-male cast of the Jury in a sensual yet tasteful tropical island setting (mentioned on the registration page, go look it up)
 - because the only language choices were Java and PHP 4 (list recited purely from memory)
 - because you're not an idea person
 - because you don't blockchain, and machine learning is so 2015
@@ -29,7 +29,7 @@ But **wait**, now there's a solution! Get together with other losers in a comple
 
 ## features
 
-Shape the Future, today! _More synergies!_ Approachable. Diminished corporate influence! **Low effort**!
+Shape the Future, today! _Synergies!_ Approachable. **Low effort**!
 
 💯 more emojis and exclamation marks than competing events, proof of increased 🔥 _enthusiasm_!
 
@@ -56,6 +56,9 @@ See at the bottom under **Signup**. There is a [Projects.md](Projects.md) file a
 
 (some of these options are blatantly copy-pasted from [an actual professionally organized hackathon](http://digitalfestival.ch/en/HACK/faq) because this is meant to be a low-effort event and also because I think you can't be sued for that)
 
+#### Q: What is the team size?
+A: Because we are the more lenient event, team size should be at least one person, and there is no upper bound.
+
 #### Q: Is there a bathroom?
 A: Yes, it's the door to the right of the kitchen
 
@@ -66,9 +69,6 @@ A: We kindly ask you to not make use of the _O-word_ because some members of our
 A: Two options:
   1) Hang with us and we'll teach you stuff!
   2) Use the fully equipped woodworking shop in my bedroom and build your own furniture (please note I only have ash, a little bit of oak and what I _think_ is elm (no relation to the programming language; but HEY, let's learn some Elm, it looks FUN) on stock, but it should be enough for a coffee table or a couple of chairs. Also, we don't have any 1st-aid people on call, but the Waid Hospital is close by and very easy to get to, even via Uber, and the guy at the reception is very nice and understanding. But we're drifting a bit off-topic here, BACK TO COMPUTER STUFF).
-
-#### Q: What is the team size?
-A: Because we are the more lenient event, team size should be at least one person, and there is no upper bound.
 
 #### Q: Which languages
 A: Come and do C, Haskell, Plankalkül, Ruby, Visual Basic, we don't give a shit! No judgement, everything goes! (seriously, last week I said I was ok with tourists eating fondue in the middle of summer; this is the level of tolerance you can expect from our event, even if earlier I implicitly made fun of Java and php, I'm sorry)
@@ -94,16 +94,6 @@ A: That is basically the entire goal of this event. I will try to convince Draž
 #### Q: Is this 40 hours non-stop and can I sleep at your place?
 A: Haha, fuck no.
 
-## Testemonials:
-
-(these may or may not be borrowed from elsewhere, which is why the names are most definitely made up.)
-
-> Tolles Event! Genau an solchen Veranstaltungen können wichtige Entdeckungen für die Zukunft gemacht werden. Zwei Daumen hoch
-> \- Bob
-
-> "Wir wollen die Innovationskultur von [...] fördern und nutzen, indem wir Ideen mit starkem Fokus auf die Kundenschnittstelle entwickeln. Damit setzen wir gegen innen und aussen ein Zeichen, indem wir als fortschrittliches und dynamisches Unternehmen wahrgenommen werden“
-> \- Rolf
-
 # I'M HYPED, SIGN ME UP!
 
 Ok, here's how to register:
@@ -112,7 +102,7 @@ Send an email to [loserhack11@aol.com](loserhack11@aol.com) with optionally the 
 
 - your _nom de guerre_/nickname/battlecry. Whichever identifier you prefer. The funniest or dumbest name also gets a prize.
 - your preferred language(s) or any other skills you find worthy of mention.
-- your estimated level. If you're a beginner it might be worth pairing up with a more advanced programmer with a helper complex
+- your estimated level. If you're a beginner we can try pairing you up with a more advanced programmer with a helper complex
 - if you feel very creative: make project suggestions. Send them by email, or modify [Projects.md](Projects.md). Be brief, we just want to make a list, not write a booklet for your series A round funding.
 
 Hopefully this will resort in some sort of clustering so that we can facilitate people coagulating into teams. _If_ I'm very motivated I'll make a spreadsheet (!) summarizing the above, so you guys are nudged into being less antisocial.
